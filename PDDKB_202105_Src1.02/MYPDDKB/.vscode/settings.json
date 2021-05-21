@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "uart.h": "c",
+        "stdio.h": "c",
+        "main.h": "c",
+        "cstdint": "cpp",
+        "i2c.h": "c",
+        "fusb302b.h": "c",
+        "bsi2c.h": "c"
+    }
+}
