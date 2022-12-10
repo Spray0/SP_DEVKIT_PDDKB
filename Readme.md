@@ -1,8 +1,8 @@
 # PDDKB Readme
 
-<img src="https://img.shields.io/badge/SoftwareVer-1.0.2-green" /><img src="https://img.shields.io/badge/Hardware-1.1-blue" /><img src="https://img.shields.io/badge/Spray0-21%2F5-red" />
+<img src="https://img.shields.io/badge/SoftwareVer-1.0.2-green" /> <img src="https://img.shields.io/badge/Hardware-1.1-blue" /> <img src="https://img.shields.io/badge/Spray0-21%2F5-red" />
 
-<img src=".\img\brd.jpg" alt="brd" style="zoom: 20%;" />
+<img src=".\img\brd.jpg" alt="brd" height = "400" />
 
 ## 简介
 
